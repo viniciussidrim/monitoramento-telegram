@@ -1,0 +1,13 @@
+{
+    "name": "vinicius/monitoramento-server-telegram",
+    "type": "application",
+    "authors": [
+        {
+            "name": "Vinícius Sidrim"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "longman/telegram-bot": "^0.72.0"
+    }
+}
